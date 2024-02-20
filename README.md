@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Screenshot](./src/assets/screenshot.png)
 
 ## Built with
 
