@@ -32,6 +32,7 @@ Users should be able to:
 - [Typescript](https://www.typescriptlang.org/)
 - [MightyMeld](https://www.mightymeld.com/)
 - [Framer Motion](https://www.framer.com/motion/)
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction/)
 
 ## Author
 
